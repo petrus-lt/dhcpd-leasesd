@@ -99,7 +99,7 @@ Run without options will output HTML on stdout and exit.
 -t Prepend an HTTP 200 header to the HTML output. Needed when used with 
    tcpserver.
 
--b Path to dhcps.leases. Default: /var/db/dhcpd.leases
+-b Path to dhcpd.leases. Default: /var/db/dhcpd.leases
 
 -c Path to dhcpd.conf. Default: /etc/dhcpd.conf
 
